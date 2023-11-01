@@ -1,0 +1,210 @@
+*{
+    padding:  0; 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.big{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #FE2722;
+    display: flex;
+    align-items: center;
+    border-radius: 15PX;
+    margin-top: 30PX;
+}
+#Nav{
+    font-size: 40px;
+    margin-left: 10PX;
+    margin-right: 10PX;
+}
+.imp{
+    width: 50%;
+    height: 70%;
+    border-radius: 20PX;
+    border: none;
+    text-align: center;
+}
+.ali{
+    color: white;
+    font-size: 30PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.prices{
+    font-family: Ali_ver\.18_Lighter-Rounded,Inter,sans-serif;
+    font-size: 46px;
+    line-height: 96%;
+    letter-spacing: -.343px;
+    margin: 0;
+}
+.content{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color:#FF6437;
+    margin-top: 20px;
+ 
+}
+.con1{
+    width: 35%;
+    height: 1005;
+    background-color: #FF6437;
+    text-align: center;
+}
+.con2{
+    width: 70%;
+    height: 100%;
+    background-image: url(Pic.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.poll{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.flex{
+    width: 100%;
+    height: 400px;
+    background-color: #F0F4F7;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.flec{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.card1{
+    width: 150px;
+    height: 100%;
+    background-color: white;
+    margin-left: 10px;
+    text-align: center;
+}
+.max{
+    width: 100%;
+    height: 70%;
+}
+.kal{
+    text-decoration: none;
+    color: rgb(17, 216, 50);
+    text-align: left;
+    margin-left: -100px;
+    margin-top: 10px;
+}
+.gtr h1{
+    width: 98%;
+margin-top: 20px;
+    height: 100%;
+    border-radius: 15px;
+    background-color:  #F0F4F7;
+}
+.gtr{
+    margin-top: 40px;
+}
+.e1{
+    font-size: 25px;
+    color: black;
+    padding: 10px;
+
+}
+.e{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(70, 73, 77);
+    padding: 10px;
+}
+.e{
+    text-decoration: black;
+}
+.e1:hover{
+    text-decoration: none;
+}
+.flex4ta{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card66{
+width:16%;
+height: 350px;
+
+margin-top: 50px;
+}
+.pil{
+width: 100%;
+height: 220px;
+border-radius: 25px;
+}
+.barb{
+    width: 13%;
+}
+.pal{
+    width:100% ;
+    border-radius: 20px;
+    height: 200px;
+}
+.frex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.show{
+    width: 96%;
+    height: 30px;
+    text-align: center;
+    margin-left: 2%;
+    border-radius: 15px;
+    background-color: #E4E4E4;
+    color: #323232;
+    border: none;
+    font-size: 20px;
+}
+.footer{
+    width: 100%;
+    height: 50vh;
+    background-color: #E4E4E4;
+    margin-top: 100px;
+}
+.fos{
+    width: 60%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.guchi p{
+    margin-left: 15px;
+}
+.fotnav{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.fotnav ul li{
+    list-style-type: none;
+    margin-top: 15px;
+}
+.fotnav a{
+    color: black;
+    font-size: 20px;
+   
+}
